@@ -1,0 +1,78 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='1920' height='1080' viewBox='0 0 1920 1080'>
+  <defs>
+    <linearGradient id='bg' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#070b1a'/><stop offset='100%' stop-color='#0f1e3f'/>
+    </linearGradient>
+    <linearGradient id='glass' x1='0' y1='0' x2='1' y2='1'>
+      <stop offset='0%' stop-color='#1b335f' stop-opacity='.45'/><stop offset='100%' stop-color='#0b1530' stop-opacity='.7'/>
+    </linearGradient>
+    <filter id='glow'><feGaussianBlur stdDeviation='8' result='b'/><feMerge><feMergeNode in='b'/><feMergeNode in='SourceGraphic'/></feMerge></filter>
+  </defs>
+  <rect width='1920' height='1080' fill='url(#bg)'/>
+  <g opacity='.18'>
+    <path d='M760 120 H1860 M760 160 H1860 M760 200 H1860 M760 240 H1860 M760 280 H1860 M760 320 H1860 M760 360 H1860 M760 400 H1860 M760 440 H1860 M760 480 H1860 M760 520 H1860 M760 560 H1860 M760 600 H1860 M760 640 H1860 M760 680 H1860 M760 720 H1860 M760 760 H1860 M760 800 H1860 M760 840 H1860 M760 880 H1860' stroke='#51a9ff' stroke-width='1'/>
+    <path d='M800 120 V920 M840 120 V920 M880 120 V920 M920 120 V920 M960 120 V920 M1000 120 V920 M1040 120 V920 M1080 120 V920 M1120 120 V920 M1160 120 V920 M1200 120 V920 M1240 120 V920 M1280 120 V920 M1320 120 V920 M1360 120 V920 M1400 120 V920 M1440 120 V920 M1480 120 V920 M1520 120 V920 M1560 120 V920 M1600 120 V920 M1640 120 V920 M1680 120 V920 M1720 120 V920 M1760 120 V920 M1800 120 V920' stroke='#51a9ff' stroke-width='1'/>
+  </g>
+  <rect x='60' y='150' width='640' height='810' rx='30' fill='url(#glass)' stroke='#8ec8ff' stroke-opacity='.7'/>
+  <rect x='90' y='190' width='580' height='560' rx='26' fill='#111c38' stroke='#78bfff' stroke-opacity='.5'/>
+  <text x='130' y='470' fill='#cde8ff' font-size='34' font-family='Segoe UI, Arial' opacity='.85'>[Insert Uploaded Portrait of Shivam Soni Here]</text>
+  <rect x='95' y='780' width='570' height='155' rx='20' fill='#0a1227' stroke='#ffcf7a' stroke-opacity='.7'/>
+  <text x='120' y='826' fill='white' font-size='44' font-weight='700' font-family='Segoe UI, Arial'>Shivam Soni</text>
+  <text x='120' y='860' fill='#ffd68f' font-size='24' font-family='Segoe UI, Arial'>Investment Banker | BITS PILANI Alumnus</text>
+  <text x='120' y='892' fill='#98d6ff' font-size='24' font-family='Segoe UI, Arial'>AI Governance &amp; Financial Intelligence Strategist</text>
+  <text x='120' y='924' fill='#bcf4cb' font-size='26' font-family='Segoe UI, Arial'>📞 7073630877</text>
+
+  <text x='760' y='95' fill='white' font-size='86' font-weight='700' font-family='Segoe UI, Arial'>DealOS AI</text>
+  <text x='1245' y='98' fill='#ffd18b' font-size='46' font-weight='700' font-family='Segoe UI, Arial'>FOR GOVERNANCE</text>
+  <text x='760' y='146' fill='#acd7ff' font-size='29' font-family='Segoe UI, Arial'>AI Operating System for Panchayat Governance, Public Fund Intelligence &amp; Administrative Decision Support</text>
+
+  <circle cx='1768' cy='90' r='64' fill='none' stroke='#ffd18b' stroke-width='2'/>
+  <path d='M1738 112 L1768 60 L1798 112 Z' fill='#ffd18b' opacity='.8'/>
+  <text x='1628' y='176' fill='#93dbff' font-size='23' font-family='Segoe UI, Arial'>Rajasthan Smart Governance Emblem</text>
+
+  <rect x='770' y='185' width='1090' height='740' rx='30' fill='url(#glass)' stroke='#89d7ff' stroke-opacity='.65'/>
+  <rect x='800' y='220' width='340' height='205' rx='16' fill='#152a4f' stroke='#67c8ff'/>
+  <text x='818' y='253' fill='#bde8ff' font-size='28' font-weight='700'>Panchayat Monitoring</text>
+  <text x='818' y='292' fill='#e1f3ff' font-size='23'>• Fund utilization heatmaps</text>
+  <text x='818' y='324' fill='#e1f3ff' font-size='23'>• Scheme-wise expenditure</text>
+  <text x='818' y='356' fill='#e1f3ff' font-size='23'>• District intelligence maps</text>
+  <text x='818' y='388' fill='#e1f3ff' font-size='23'>• Risk scoring &amp; delay alerts</text>
+
+  <rect x='1160' y='220' width='340' height='205' rx='16' fill='#152a4f' stroke='#67c8ff'/>
+  <text x='1178' y='253' fill='#bde8ff' font-size='28' font-weight='700'>AI Fraud Detection</text>
+  <text x='1178' y='292' fill='#e1f3ff' font-size='23'>• Suspicious transaction alerts</text>
+  <text x='1178' y='324' fill='#e1f3ff' font-size='23'>• Duplicate payments</text>
+  <text x='1178' y='356' fill='#e1f3ff' font-size='23'>• Budget mismatch signals</text>
+  <text x='1178' y='388' fill='#e1f3ff' font-size='23'>• Contractor concentration</text>
+
+  <rect x='1520' y='220' width='310' height='205' rx='16' fill='#152a4f' stroke='#67c8ff'/>
+  <text x='1538' y='253' fill='#bde8ff' font-size='28' font-weight='700'>Admin Intelligence</text>
+  <text x='1538' y='292' fill='#e1f3ff' font-size='21'>• IAS control center</text>
+  <text x='1538' y='322' fill='#e1f3ff' font-size='21'>• Committee review cockpit</text>
+  <text x='1538' y='352' fill='#e1f3ff' font-size='21'>• Public fund tracking</text>
+  <text x='1538' y='382' fill='#e1f3ff' font-size='21'>• Audit-ready reporting</text>
+
+  <rect x='800' y='450' width='520' height='210' rx='16' fill='#112848' stroke='#55d6ff'/>
+  <text x='818' y='485' fill='#bde8ff' font-size='29' font-weight='700'>AI Copilot</text>
+  <text x='818' y='523' fill='#dff4ff' font-size='24'>“Show high-risk Panchayats”</text>
+  <text x='818' y='557' fill='#dff4ff' font-size='24'>“Summarize district expenditure”</text>
+  <text x='818' y='591' fill='#dff4ff' font-size='24'>“Identify delayed PMAY utilization”</text>
+  <text x='818' y='625' fill='#dff4ff' font-size='24'>“Generate audit summary”</text>
+
+  <rect x='1340' y='450' width='490' height='210' rx='16' fill='#112848' stroke='#55d6ff'/>
+  <text x='1360' y='485' fill='#bde8ff' font-size='29' font-weight='700'>State-Level Governance Intelligence</text>
+  <text x='1360' y='523' fill='#dff4ff' font-size='23'>• Rajasthan heatmaps &amp; district rankings</text>
+  <text x='1360' y='557' fill='#dff4ff' font-size='23'>• Governance performance scorecards</text>
+  <text x='1360' y='591' fill='#dff4ff' font-size='23'>• Budget allocation intelligence</text>
+  <text x='1360' y='625' fill='#dff4ff' font-size='23'>• Rural development analytics</text>
+
+  <rect x='800' y='680' width='1030' height='210' rx='16' fill='#10243f' stroke='#4ef3b6'/>
+  <text x='820' y='716' fill='#bcffe4' font-size='31' font-weight='700'>Feature Highlights</text>
+  <text x='820' y='755' fill='#e6fff5' font-size='24'>✔ AI-Powered Monitoring      ✔ Real-Time Fund Intelligence      ✔ Automated Audit Reports</text>
+  <text x='820' y='794' fill='#e6fff5' font-size='24'>✔ Fraud Detection Engine      ✔ Committee Decision Support      ✔ Governance Analytics</text>
+  <text x='820' y='833' fill='#e6fff5' font-size='24'>✔ Transparency &amp; Accountability      ✔ District-to-State Intelligence</text>
+  <text x='820' y='872' fill='#e6fff5' font-size='24'>✔ AI-Based Financial Review      ✔ Public Fund Monitoring</text>
+
+  <text x='560' y='968' fill='#ffd894' font-size='45' font-weight='700'>Transforming Governance Through Artificial Intelligence</text>
+  <text x='445' y='1012' fill='#a9dcff' font-size='30'>Empowering IAS Officers, District Administrations &amp; Panchayat Committees with Real-Time Governance Intelligence</text>
+</svg>
